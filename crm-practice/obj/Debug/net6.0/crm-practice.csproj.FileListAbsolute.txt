@@ -1,0 +1,15 @@
+/Users/ibrohim/Sites/academy-dotnet/crm-practice/obj/Debug/net6.0/crm-practice.csproj.AssemblyReference.cache
+/Users/ibrohim/Sites/academy-dotnet/crm-practice/obj/Debug/net6.0/crm-practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrohim/Sites/academy-dotnet/crm-practice/obj/Debug/net6.0/crm-practice.AssemblyInfoInputs.cache
+/Users/ibrohim/Sites/academy-dotnet/crm-practice/obj/Debug/net6.0/crm-practice.AssemblyInfo.cs
+/Users/ibrohim/Sites/academy-dotnet/crm-practice/obj/Debug/net6.0/crm-practice.csproj.CoreCompileInputs.cache
+/Users/ibrohim/Sites/academy-dotnet/crm-practice/bin/Debug/net6.0/crm-practice
+/Users/ibrohim/Sites/academy-dotnet/crm-practice/bin/Debug/net6.0/crm-practice.deps.json
+/Users/ibrohim/Sites/academy-dotnet/crm-practice/bin/Debug/net6.0/crm-practice.runtimeconfig.json
+/Users/ibrohim/Sites/academy-dotnet/crm-practice/bin/Debug/net6.0/crm-practice.dll
+/Users/ibrohim/Sites/academy-dotnet/crm-practice/bin/Debug/net6.0/crm-practice.pdb
+/Users/ibrohim/Sites/academy-dotnet/crm-practice/obj/Debug/net6.0/crm-practice.dll
+/Users/ibrohim/Sites/academy-dotnet/crm-practice/obj/Debug/net6.0/refint/crm-practice.dll
+/Users/ibrohim/Sites/academy-dotnet/crm-practice/obj/Debug/net6.0/crm-practice.pdb
+/Users/ibrohim/Sites/academy-dotnet/crm-practice/obj/Debug/net6.0/crm-practice.genruntimeconfig.cache
+/Users/ibrohim/Sites/academy-dotnet/crm-practice/obj/Debug/net6.0/ref/crm-practice.dll
