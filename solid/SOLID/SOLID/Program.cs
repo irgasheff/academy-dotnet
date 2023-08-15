@@ -1,4 +1,5 @@
-﻿using SOLID.SRP;
+﻿using SOLID.OCP;
+using SOLID.SRP;
 
 // -----     SRP     -----
 Bookshelf bookshelfAToB = new Bookshelf("A-B", 4, 5, 10);
@@ -13,3 +14,19 @@ Console.WriteLine(bookshelfAToB.ToString());
 bookshelfAToB.AddBookToBookshelf(warAndPeace);
 Console.WriteLine(bookshelfAToB.ToString());
 // -----     SRP     -----
+
+// -----     OCP     -----
+CurrencyCalculator usdCalculator = new UsdDollarCalculator();
+CurrencyCalculator tjsCalculator = new TjsSomoniCalculator();
+CurrencyCalculator uzbCalculator = new UzbSumCalculator();
+
+const double amount = 10;
+double convertedToUsd = usdCalculator.ConvertCurrency(amount);
+Console.WriteLine($"Your {amount} amount is equals to {convertedToUsd} USD dollar");
+
+double convertedToTjs = tjsCalculator.ConvertCurrency(amount);
+Console.WriteLine($"Your {amount} amount is equals to {convertedToTjs} TJS somoni");
+
+double convertedToUzb = uzbCalculator.ConvertCurrency(amount);
+Console.WriteLine($"Your {amount} amount is equals to {convertedToUzb} UZB sum");
+// -----     OCP     -----
