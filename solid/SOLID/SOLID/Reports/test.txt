@@ -1,0 +1,2 @@
+Code: BB, Name: AA, Hours: 7
+Code: BB1, Name: AA1, Hours: 8
