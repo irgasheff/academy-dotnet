@@ -1,4 +1,5 @@
-﻿using SOLID.OCP;
+﻿using SOLID.LSP;
+using SOLID.OCP;
 using SOLID.SRP;
 
 // -----     SRP     -----
@@ -30,3 +31,15 @@ Console.WriteLine($"Your {amount} amount is equals to {convertedToTjs} TJS somon
 double convertedToUzb = uzbCalculator.ConvertCurrency(amount);
 Console.WriteLine($"Your {amount} amount is equals to {convertedToUzb} UZB sum");
 // -----     OCP     -----
+
+// -----     LSP     -----
+int[] numbers = { 1, 2, 3, 4, 5, 6, 7, 8 };
+Calculator sumCalculator = new SumCalculator(numbers);
+Console.WriteLine(sumCalculator.Calculate());
+
+Calculator evenNumbersCalculator = new EvenNumbersCalculator(numbers);
+Console.WriteLine(evenNumbersCalculator.Calculate());
+
+Calculator oddNumbersCalculator = new OddNumbersCalculator(numbers);
+Console.WriteLine(oddNumbersCalculator.Calculate());
+// -----     LSP     -----
