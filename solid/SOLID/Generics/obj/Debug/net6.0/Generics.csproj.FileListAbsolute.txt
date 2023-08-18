@@ -1,0 +1,15 @@
+/Users/ibrohimirgashev/Sites/academy-dotnet/solid/SOLID/Generics/bin/Debug/net6.0/Generics
+/Users/ibrohimirgashev/Sites/academy-dotnet/solid/SOLID/Generics/bin/Debug/net6.0/Generics.deps.json
+/Users/ibrohimirgashev/Sites/academy-dotnet/solid/SOLID/Generics/bin/Debug/net6.0/Generics.runtimeconfig.json
+/Users/ibrohimirgashev/Sites/academy-dotnet/solid/SOLID/Generics/bin/Debug/net6.0/Generics.dll
+/Users/ibrohimirgashev/Sites/academy-dotnet/solid/SOLID/Generics/bin/Debug/net6.0/Generics.pdb
+/Users/ibrohimirgashev/Sites/academy-dotnet/solid/SOLID/Generics/obj/Debug/net6.0/Generics.csproj.AssemblyReference.cache
+/Users/ibrohimirgashev/Sites/academy-dotnet/solid/SOLID/Generics/obj/Debug/net6.0/Generics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrohimirgashev/Sites/academy-dotnet/solid/SOLID/Generics/obj/Debug/net6.0/Generics.AssemblyInfoInputs.cache
+/Users/ibrohimirgashev/Sites/academy-dotnet/solid/SOLID/Generics/obj/Debug/net6.0/Generics.AssemblyInfo.cs
+/Users/ibrohimirgashev/Sites/academy-dotnet/solid/SOLID/Generics/obj/Debug/net6.0/Generics.csproj.CoreCompileInputs.cache
+/Users/ibrohimirgashev/Sites/academy-dotnet/solid/SOLID/Generics/obj/Debug/net6.0/Generics.dll
+/Users/ibrohimirgashev/Sites/academy-dotnet/solid/SOLID/Generics/obj/Debug/net6.0/refint/Generics.dll
+/Users/ibrohimirgashev/Sites/academy-dotnet/solid/SOLID/Generics/obj/Debug/net6.0/Generics.pdb
+/Users/ibrohimirgashev/Sites/academy-dotnet/solid/SOLID/Generics/obj/Debug/net6.0/Generics.genruntimeconfig.cache
+/Users/ibrohimirgashev/Sites/academy-dotnet/solid/SOLID/Generics/obj/Debug/net6.0/ref/Generics.dll

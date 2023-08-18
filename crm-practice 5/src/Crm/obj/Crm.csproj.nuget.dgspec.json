@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ibrohim/Downloads/crm-practice 5/src/Crm/Crm.csproj": {}
+    "/Users/ibrohimirgashev/Sites/academy-dotnet/crm-practice 5/src/Crm/Crm.csproj": {}
   },
   "projects": {
-    "/Users/ibrohim/Downloads/crm-practice 5/src/Crm/Crm.csproj": {
+    "/Users/ibrohimirgashev/Sites/academy-dotnet/crm-practice 5/src/Crm/Crm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ibrohim/Downloads/crm-practice 5/src/Crm/Crm.csproj",
+        "projectUniqueName": "/Users/ibrohimirgashev/Sites/academy-dotnet/crm-practice 5/src/Crm/Crm.csproj",
         "projectName": "Crm",
-        "projectPath": "/Users/ibrohim/Downloads/crm-practice 5/src/Crm/Crm.csproj",
-        "packagesPath": "/Users/ibrohim/.nuget/packages/",
-        "outputPath": "/Users/ibrohim/Downloads/crm-practice 5/src/Crm/obj/",
+        "projectPath": "/Users/ibrohimirgashev/Sites/academy-dotnet/crm-practice 5/src/Crm/Crm.csproj",
+        "packagesPath": "/Users/ibrohimirgashev/.nuget/packages/",
+        "outputPath": "/Users/ibrohimirgashev/Sites/academy-dotnet/crm-practice 5/src/Crm/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/ibrohim/.nuget/NuGet/NuGet.Config"
+          "/Users/ibrohimirgashev/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.406/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.412/RuntimeIdentifierGraph.json"
         }
       }
     }
